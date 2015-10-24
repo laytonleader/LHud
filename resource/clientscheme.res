@@ -2647,6 +2647,8 @@ Scheme
 			}
 		}
 		
+		// These are the fonts I am using for LHud
+		
 		BebasNeue12
 		{
 			"1"
@@ -2716,10 +2718,79 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		Syncopate-Regular12
+		{
+			"1"
+			{
+				"name"		"Syncopate-Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		Syncopate-Regular16
+		{
+			"1"
+			{
+				"name"		"Syncopate-Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		Syncopate-Regular24
+		{
+			"1"
+			{
+				"name"		"Syncopate-Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		Syncopate-Regular32
+		{
+			"1"
+			{
+				"name"		"Syncopate-Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		Syncopate-Regular36
+		{
+			"1"
+			{
+				"name"		"Syncopate-Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		Syncopate-Regular42
+		{
+			"1"
+			{
+				"name"		"Syncopate-Regular"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		Syncopate-Regular48
+		{
+			"1"
+			{
+				"name"		"Syncopate-Regular"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
 
 	}
 	
-	// These are the fonts I am using for LHud
 	
 	
 	
