@@ -7,7 +7,11 @@
 		"fieldName"		"HudPlayerHealth"
 		"xpos"			"c-250"		[$WIN32]
 		"xpos_minmode"	"-5"		[$WIN32]
+<<<<<<< HEAD
 		"ypos"			"c34"	[$WIN32]
+=======
+		"ypos"			"c20"	[$WIN32]
+>>>>>>> origin/master
 		"ypos_minmode"	"r88"	[$WIN32]
 		"xpos"			"c32"	[$X360]
 		"ypos"			"r144"	[$X360]
@@ -86,7 +90,11 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"BebasNeue48"
+<<<<<<< HEAD
 		"fgcolor"		"255 255 255 255"
+=======
+		"fgcolor"		"white"
+>>>>>>> origin/master
 	}
 
 	"PlayerStatusHealthValueBG"
